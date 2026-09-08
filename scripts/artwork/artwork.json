@@ -1,0 +1,41 @@
+{
+  "title": "AI API Reference",
+  "eyebrow": "Reference fork",
+  "subtitle": [
+    "A reference copy of",
+    "Claws-ZH/awesome-ai-api"
+  ],
+  "status": "Upstream authorship and license preserved",
+  "motif": "library",
+  "accent": "#347060",
+  "footer": "awesome-ai-api",
+  "overview_title": "Start with the original project",
+  "overview_subtitle": "This fork is a reference checkout, not an independently verified product or directory.",
+  "nodes": [
+    {
+      "icon": "library",
+      "title": "Upstream source",
+      "lines": [
+        "Claws-ZH",
+        "awesome-ai-api"
+      ]
+    },
+    {
+      "icon": "library",
+      "title": "Reference checkout",
+      "lines": [
+        "Existing docs retained.",
+        "Fork changes stay separate."
+      ]
+    },
+    {
+      "icon": "scope",
+      "title": "Check before reuse",
+      "lines": [
+        "License, changes and dates.",
+        "No independent certification."
+      ]
+    }
+  ],
+  "caveat": "Illustration of provenance. Follow upstream for current releases, support and contribution rules."
+}
